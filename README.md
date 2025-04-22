@@ -1,4 +1,4 @@
-# Welcome to Must-Know Java Interview Questions
+# Welcome to the repository
 
 Your one-stop guide to the most frequently asked Java interview questions — concise, clear, and practical.
 
