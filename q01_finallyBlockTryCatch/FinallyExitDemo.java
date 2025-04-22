@@ -1,4 +1,4 @@
-package q01_finallyblock;
+package q01_finallyBlockTryCatch;
 
 public class FinallyExitDemo {
     public static void main(String[] args) {
